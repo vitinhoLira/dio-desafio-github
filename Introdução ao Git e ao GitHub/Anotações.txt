@@ -1,0 +1,62 @@
+//Criando repositório no GIT
+
+*Dentro da pasta do projeto (EX: Workplace)
+
+abrimos o Git Bash inserindo o seguinte comando:
+
+	- git init 
+	(Cria um novo repositório do git, ele pode ser 
+	usado para converter um projeto existente e não
+	versionado em um r´positório do Git ou inicializa
+ 	um novo repositório vazio.)
+
+	- ls -a 
+	(mostra arquivos ocultos e não ocultos)
+
+*Para primeiro uso faremos algumas configurações
+
+Adicionar e-mail e nome referente a conta do GitHub:
+	
+	- git config --global user.email "contato.joaovitorlira@hotmail.com" (inserir e-mail do GitHub)
+ 	(Adiciona o e-mail as configurações gerais do Git na sua máquina)
+
+	- git config --global user.name vitinhoLira 
+	(Inserir nome relacionado a conta do GitHub)
+
+* Criaremos um arquivo para usarmos como exemplo para criarmos o repositório
+
+Criaremos um arquivo tipo Markdown, este arquivo facilita a edição de texto para 
+conseguirmos estilizar o nosso texto. geralmente eles são salvos como arquivo .md,
+encontraremos o instalador nessa dessa aplicação na pasta Aplicações Necessárias/.
+
+* adicionar arquivo .md no repositório
+
+	- git add *
+	(adiciona os arquivos dentro da pasta workplace ao repositório)
+
+* Commitando arquivos alterados
+
+	- commit -m "comentário para este commit"
+	
+	Comando para verificar o estado da pasta workplace:
+
+	- git status
+	(Mostra informações sobre o estado do projeto)
+
+*Precisamos colocar todos esses arquivos na nuvem
+
+Usaremos dentro da pasta Workplace o seguinte comando:
+	
+	- git push origin main
+	(Comando usado para enviar o repositório para a nuvem)
+
+*Procedimento de limpeza de informações de e-mail e nome das configuração gerais
+
+	- git config -list
+	(mostra as configurações estabelecidas no Git)
+
+	- git config --global --unset user.email
+	(apaga o e-mail registrado nas informações gerais)
+
+	- git config --global --unset user.name
+	 (apaga o nome registrado nas informações gerais)

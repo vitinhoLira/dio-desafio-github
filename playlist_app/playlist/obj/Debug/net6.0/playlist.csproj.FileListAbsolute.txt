@@ -1,0 +1,15 @@
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\playlist.exe
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\playlist.deps.json
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\playlist.runtimeconfig.json
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\playlist.dll
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\ref\playlist.dll
+C:\WorkSpace\projetoC#\playlist_app\playlist\bin\Debug\net6.0\playlist.pdb
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.csproj.AssemblyReference.cache
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.AssemblyInfoInputs.cache
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.AssemblyInfo.cs
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.csproj.CoreCompileInputs.cache
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.dll
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\ref\playlist.dll
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.pdb
+C:\WorkSpace\projetoC#\playlist_app\playlist\obj\Debug\net6.0\playlist.genruntimeconfig.cache
